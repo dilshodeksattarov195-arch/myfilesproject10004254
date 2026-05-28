@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorderify",
+        "uuid": 34261716,
+        "checksum": "c1gwv7"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
